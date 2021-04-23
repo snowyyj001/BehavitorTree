@@ -1,0 +1,6 @@
+Stand
+Move
+Speak
+Spell
+AddBuff
+DelBuff
